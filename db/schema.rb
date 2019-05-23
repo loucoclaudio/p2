@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_05_23_102411) do
+ActiveRecord::Schema.define(version: 2019_05_23_103237) do
 
   create_table "dexes", force: :cascade do |t|
     t.string "number"
@@ -23,6 +23,12 @@ ActiveRecord::Schema.define(version: 2019_05_23_102411) do
     t.string "sprite"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "dex_id"
+    t.integer "tipo1_id"
+    t.integer "tipo2_id"
+    t.index ["dex_id"], name: "index_pokemons_on_dex_id"
+    t.index ["tipo1_id"], name: "index_pokemons_on_tipo1_id"
+    t.index ["tipo2_id"], name: "index_pokemons_on_tipo2_id"
   end
 
   create_table "t1s", force: :cascade do |t|
