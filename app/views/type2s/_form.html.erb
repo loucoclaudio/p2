@@ -1,0 +1,22 @@
+<%= form_with(model: type2, local: true) do |form| %>
+  <% if type2.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(type2.errors.count, "error") %> prohibited this type2 from being saved:</h2>
+
+      <ul>
+      <% type2.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :type %>
+    <%= form.text_field :type %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
