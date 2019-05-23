@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_05_23_100851) do
+ActiveRecord::Schema.define(version: 2019_05_23_102411) do
 
   create_table "dexes", force: :cascade do |t|
     t.string "number"
@@ -21,6 +21,30 @@ ActiveRecord::Schema.define(version: 2019_05_23_100851) do
   create_table "pokemons", force: :cascade do |t|
     t.string "species"
     t.string "sprite"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "t1s", force: :cascade do |t|
+    t.string "type"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "t2s", force: :cascade do |t|
+    t.string "type"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "tipo1s", force: :cascade do |t|
+    t.string "tipo"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "tipo2s", force: :cascade do |t|
+    t.string "tipo"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
