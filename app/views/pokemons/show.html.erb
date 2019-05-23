@@ -10,5 +10,20 @@
   <%= image_tag @pokemon.sprite , size:"300x300" %>
 </p>
 
+<p>
+  <strong>Dex:</strong>
+  <%= @pokemon.dex.number %>
+</p>
+
+<p>
+  <strong>Tipo1:</strong>
+  <%= @pokemon.tipo1.tipo  %>
+</p>
+
+<p>
+  <strong>Tipo2:</strong>
+  <%= @pokemon.tipo2.tipo %>
+</p>
+
 <%= link_to 'Edit', edit_pokemon_path(@pokemon) %> |
 <%= link_to 'Back', pokemons_path %>

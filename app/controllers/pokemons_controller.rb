@@ -1,5 +1,9 @@
 class PokemonsController < ApplicationController
   before_action :set_pokemon, only: [:show, :edit, :update, :destroy]
+  before_action :set_dex_options, only: [:new, :create, :edit, :update]
+  before_action :set_tipo1_options, only: [:new, :create, :edit, :update]
+  before_action :set_tipo2_options, only: [:new, :create, :edit, :update]
+  
 
   # GET /pokemons
   # GET /pokemons.json
@@ -62,6 +66,19 @@ class PokemonsController < ApplicationController
   end
 
   private
+  
+    def set_dex_options
+      @dex_options = Dex.all.pluck(:number , :id)
+    end
+    
+    def set_tipo1_options 
+      @tipo1_options = Tipo1.all.pluck(:tipo , :id)
+    end
+    
+    def set_tipo2_options
+      @tipo2_options = Tipo2.all.pluck(:tipo , :id)
+    end
+    
     # Use callbacks to share common setup or constraints between actions.
     def set_pokemon
       @pokemon = Pokemon.find(params[:id])
@@ -69,6 +86,6 @@ class PokemonsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def pokemon_params
-      params.require(:pokemon).permit(:species, :sprite)
+      params.require(:pokemon).permit(:species, :sprite, :dex_id , :tipo1_id , :tipo2_id)
     end
 end

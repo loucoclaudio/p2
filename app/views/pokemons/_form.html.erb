@@ -11,6 +11,13 @@
     </div>
   <% end %>
 
+
+  <div class="field">
+    <%= form.label :dex_id %>
+    <%= form.select("dex_id", @dex_options ,{ include_blank: 'selecione'}) %>
+  </div>
+  
+  
   <div class="field">
     <%= form.label :species %>
     <%= form.text_field :species %>
@@ -20,7 +27,18 @@
     <%= form.label :sprite %>
     <%= form.text_field :sprite %>
   </div>
+  
 
+  <div class="field">
+    <%= form.label :tipo1_id %>
+    <%= form.select("tipo1_id", @tipo1_options,{ include_blank: 'selecione'}) %>
+  </div>
+  
+  <div class="field">
+    <%= form.label :tipo2_id %>
+    <%= form.select("tipo2_id", @tipo2_options,{ include_blank: 'selecione'}) %>
+  </div>
+  
   <div class="actions">
     <%= form.submit %>
   </div>
