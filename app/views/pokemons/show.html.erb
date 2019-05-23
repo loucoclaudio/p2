@@ -7,7 +7,7 @@
 
 <p>
   <strong>Sprite:</strong>
-  <%= @pokemon.sprite %>
+  <%= image_tag @pokemon.sprite , size:"300x300" %>
 </p>
 
 <%= link_to 'Edit', edit_pokemon_path(@pokemon) %> |
