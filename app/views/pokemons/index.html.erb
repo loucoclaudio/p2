@@ -20,8 +20,8 @@
         <td><%= pokemon.dex_id %></td>
         <td><%= pokemon.species %></td>
         <td><%= image_tag pokemon.sprite , size:"30x30" %></td>
-        <td><%= pokemon.tipo1 %></td>
-        <td><%= pokemon.tipo2 %></td>
+        <td><%= pokemon.tipo1_id %></td>
+        <td><%= pokemon.tipo2_id %></td>
         <td><%= link_to 'Show', pokemon %></td>
         <td><%= link_to 'Edit', edit_pokemon_path(pokemon) %></td>
         <td><%= link_to 'Destroy', pokemon, method: :delete, data: { confirm: 'Are you sure?' } %></td>
