@@ -31,18 +31,6 @@ ActiveRecord::Schema.define(version: 2019_05_23_103237) do
     t.index ["tipo2_id"], name: "index_pokemons_on_tipo2_id"
   end
 
-  create_table "t1s", force: :cascade do |t|
-    t.string "type"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
-  create_table "t2s", force: :cascade do |t|
-    t.string "type"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
   create_table "tipo1s", force: :cascade do |t|
     t.string "tipo"
     t.datetime "created_at", null: false
@@ -51,18 +39,6 @@ ActiveRecord::Schema.define(version: 2019_05_23_103237) do
 
   create_table "tipo2s", force: :cascade do |t|
     t.string "tipo"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
-  create_table "type1s", force: :cascade do |t|
-    t.string "type"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
-  create_table "type2s", force: :cascade do |t|
-    t.string "type"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
