@@ -872,1072 +872,1064 @@ Pokemon.create!(
 )
 
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Ivysaur",
+    sprite:"https://cdn.bulbagarden.net/upload/thumb/7/73/002Ivysaur.png/250px-002Ivysaur.png",
+    dex_id:"3",
+    tipo1_id:"4",
+    tipo2_id:"10"
 )
 
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Venusaur",
+    sprite:"https://cdn.bulbagarden.net/upload/thumb/a/ae/003Venusaur.png/1200px-003Venusaur.png",
+    dex_id:"4",
+    tipo1_id:"4",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Charmander",
+    sprite:"http://static.pokemonpets.com/images/monsters-images-800-800/4-Charmander.png",
+    dex_id:"5",
+    tipo1_id:"2",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Charmeleon",
+    sprite:"https://static.pokemonpets.com/images/monsters-images-300-300/5-Charmeleon.png",
+    dex_id:"6",
+    tipo1_id:"2",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Charizard",
+    sprite:"https://static.pokemonpets.com/images/monsters-images-300-300/6-Charizard.png",
+    dex_id:"7",
+    tipo1_id:"2",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Squirtle",
+    sprite:"https://static.pokemonpets.com/images/monsters-images-300-300/7-Squirtle.png",
+    dex_id:"8",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Wartortle",
+    sprite:"https://static.pokemonpets.com/images/monsters-images-300-300/8-Wartortle.png",
+    dex_id:"9",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Blastoise",
+    sprite:"https://static.pokemonpets.com/images/monsters-images-300-300/9-blastoise.png",
+    dex_id:"10",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Caterpie",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png",
+    dex_id:"11",
+    tipo1_id:"10",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Metapod",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/011.png",
+    dex_id:"12",
+    tipo1_id:"10",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Butterfree",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png",
+    dex_id:"13",
+    tipo1_id:"10",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Weedle",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png",
+    dex_id:"14",
+    tipo1_id:"10",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Kakuna",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/014.png",
+    dex_id:"15",
+    tipo1_id:"10",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Beedril",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png",
+    dex_id:"16",
+    tipo1_id:"10",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Pidgey",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png",
+    dex_id:"17",
+    tipo1_id:"7",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Pidgeotto",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/017.png",
+    dex_id:"18",
+    tipo1_id:"7",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Pidgeot",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018.png",
+    dex_id:"19",
+    tipo1_id:"7",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Rattata",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
+    dex_id:"20",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Raticate",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png",
+    dex_id:"21",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Spearow",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png",
+    dex_id:"22",
+    tipo1_id:"7",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Fearow",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/022.png",
+    dex_id:"23",
+    tipo1_id:"7",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Ekans",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png",
+    dex_id:"24",
+    tipo1_id:"9",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Arbok",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/024.png",
+    dex_id:"25",
+    tipo1_id:"9",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Pikachu",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+    dex_id:"26",
+    tipo1_id:"6",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Raichu",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png",
+    dex_id:"27",
+    tipo1_id:"6",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Sandshrew",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png",
+    dex_id:"28",
+    tipo1_id:"3",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Sandslash",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/028.png",
+    dex_id:"29",
+    tipo1_id:"3",
+    tipo2_id:"1"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Nidoran F",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/029.png",
+    dex_id:"30",
+    tipo1_id:"9",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Nidorina",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/030.png",
+    dex_id:"31",
+    tipo1_id:"9",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Nidoqueen",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/031.png",
+    dex_id:"32",
+    tipo1_id:"9",
+    tipo2_id:"4"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Nidoran M",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/032.png",
+    dex_id:"33",
+    tipo1_id:"9",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Nidorino",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/033.png",
+    dex_id:"34",
+    tipo1_id:"9",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Nidoking",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/034.png",
+    dex_id:"35",
+    tipo1_id:"9",
+    tipo2_id:"4"
 )
 
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Clefairy",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png",
+    dex_id:"36",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
 
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Clefable",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/036.png",
+    dex_id:"37",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
 
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Vulpix",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
+    dex_id:"38",
+    tipo1_id:"2",
+    tipo2_id:"1"
 )
 
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Ninetales",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png",
+    dex_id:"39",
+    tipo1_id:"2",
+    tipo2_id:"1"
 )
 
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Jigglypuff",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/039.png",
+    dex_id:"40",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
 
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Wigglytuff",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/040.png",
+    dex_id:"41",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Zubat",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/041.png",
+    dex_id:"42",
+    tipo1_id:"9",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Golbat",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/042.png",
+    dex_id:"43",
+    tipo1_id:"9",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Oddish",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/043.png",
+    dex_id:"44",
+    tipo1_id:"4",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Gloom",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/044.png",
+    dex_id:"45",
+    tipo1_id:"4",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Vileplume",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/045.png",
+    dex_id:"46",
+    tipo1_id:"4",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Paras",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/046.png",
+    dex_id:"47",
+    tipo1_id:"10",
+    tipo2_id:"5"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Parasect",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/047.png",
+    dex_id:"48",
+    tipo1_id:"10",
+    tipo2_id:"5"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Venonat",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/048.png",
+    dex_id:"49",
+    tipo1_id:"10",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Venomoth",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/049.png",
+    dex_id:"50",
+    tipo1_id:"10",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Diglett",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/050.png",
+    dex_id:"51",
+    tipo1_id:"3",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Dugtrio",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/051.png",
+    dex_id:"52",
+    tipo1_id:"3",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Meowth",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png",
+    dex_id:"53",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Persian",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png",
+    dex_id:"54",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Psyduck",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/054.png",
+    dex_id:"55",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Golduck",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/055.png",
+    dex_id:"56",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Mankey",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/056.png",
+    dex_id:"57",
+    tipo1_id:"8",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Primape",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/057.png",
+    dex_id:"58",
+    tipo1_id:"8",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Growlithe",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/058.png",
+    dex_id:"59",
+    tipo1_id:"2",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Arcanine",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/059.png",
+    dex_id:"60",
+    tipo1_id:"2",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Poliwag",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/060.png",
+    dex_id:"61",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Poliwhirl",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/061.png",
+    dex_id:"62",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Poliwrath",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/062.png",
+    dex_id:"63",
+    tipo1_id:"1",
+    tipo2_id:"9"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Abra",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/063.png",
+    dex_id:"64",
+    tipo1_id:"12",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Kadabra",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/064.png",
+    dex_id:"65",
+    tipo1_id:"12",
+    tipo2_id:"1"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Alakazam",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png",
+    dex_id:"66",
+    tipo1_id:"12",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Machop",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/066.png",
+    dex_id:"67",
+    tipo1_id:"8",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Machoke",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/067.png",
+    dex_id:"68",
+    tipo1_id:"8",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Machamp",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/068.png",
+    dex_id:"69",
+    tipo1_id:"8",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Bellsprout",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/069.png",
+    dex_id:"70",
+    tipo1_id:"4",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Weepinbell",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/070.png",
+    dex_id:"71",
+    tipo1_id:"4",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Victrebell",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/071.png",
+    dex_id:"72",
+    tipo1_id:"4",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Tentacool",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/072.png",
+    dex_id:"73",
+    tipo1_id:"1",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Tentacruel",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/073.png",
+    dex_id:"74",
+    tipo1_id:"1",
+    tipo2_id:"10"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Geodude",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/074.png",
+    dex_id:"75",
+    tipo1_id:"5",
+    tipo2_id:"4"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Graveler",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/075.png",
+    dex_id:"76",
+    tipo1_id:"5",
+    tipo2_id:"4"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Golem",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/076.png",
+    dex_id:"77",
+    tipo1_id:"5",
+    tipo2_id:"4"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Ponyta",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/077.png",
+    dex_id:"78",
+    tipo1_id:"2",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Rapidash",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png",
+    dex_id:"79",
+    tipo1_id:"2",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Slowpoke",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/079.png",
+    dex_id:"80",
+    tipo1_id:"1",
+    tipo2_id:"13"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Slowbro",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png",
+    dex_id:"81",
+    tipo1_id:"1",
+    tipo2_id:"13"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Magnemite",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/081.png",
+    dex_id:"82",
+    tipo1_id:"6",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Magneton",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/082.png",
+    dex_id:"83",
+    tipo1_id:"6",
+    tipo2_id:"1"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Farfetch'd",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/083.png",
+    dex_id:"84",
+    tipo1_id:"7",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Doduo",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/084.png",
+    dex_id:"85",
+    tipo1_id:"7",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Dodrio",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/085.png",
+    dex_id:"86",
+    tipo1_id:"7",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Seel",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/086.png",
+    dex_id:"87",
+    tipo1_id:"1",
+    tipo2_id:"14"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Dewgong",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/087.png",
+    dex_id:"88",
+    tipo1_id:"1",
+    tipo2_id:"14"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Grimer",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/088.png",
+    dex_id:"89",
+    tipo1_id:"9",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Muk",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/089.png",
+    dex_id:"90",
+    tipo1_id:"9",
+    tipo2_id:"1"
 )
 
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Shellder",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/090.png",
+    dex_id:"91",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Cloyster",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/091.png",
+    dex_id:"92",
+    tipo1_id:"1",
+    tipo2_id:"14"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Gastly",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/092.png",
+    dex_id:"93",
+    tipo1_id:"11",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Haunter",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/093.png",
+    dex_id:"94",
+    tipo1_id:"11",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Gengar",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png",
+    dex_id:"95",
+    tipo1_id:"11",
+    tipo2_id:"10"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Onix",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/095.png",
+    dex_id:"96",
+    tipo1_id:"5",
+    tipo2_id:"4"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Drowzee",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/096.png",
+    dex_id:"97",
+    tipo1_id:"12",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Hypno",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/097.png",
+    dex_id:"98",
+    tipo1_id:"12",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Krabby",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/098.png",
+    dex_id:"99",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Kingler",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/099.png",
+    dex_id:"100",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Voltorb",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png",
+    dex_id:"101",
+    tipo1_id:"6",
+    tipo2_id:"1"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Electrode",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/101.png",
+    dex_id:"102",
+    tipo1_id:"6",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Exeggcute",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/102.png",
+    dex_id:"103",
+    tipo1_id:"4",
+    tipo2_id:"13"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Exeggutor",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/103.png",
+    dex_id:"104",
+    tipo1_id:"4",
+    tipo2_id:"13"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Cubone",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/104.png",
+    dex_id:"105",
+    tipo1_id:"3",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Marowak",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/105.png",
+    dex_id:"106",
+    tipo1_id:"3",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Hitmonlee",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/106.png",
+    dex_id:"107",
+    tipo1_id:"8",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Hitmonchan",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/107.png",
+    dex_id:"108",
+    tipo1_id:"8",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Lickitung",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/108.png",
+    dex_id:"109",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Koffing",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/109.png",
+    dex_id:"110",
+    tipo1_id:"9",
+    tipo2_id:"1"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Weezing",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/110.png",
+    dex_id:"111",
+    tipo1_id:"9",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Rhyhorn",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/111.png",
+    dex_id:"112",
+    tipo1_id:"3",
+    tipo2_id:"6"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Rhydon",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/112.png",
+    dex_id:"113",
+    tipo1_id:"3",
+    tipo2_id:"6"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Chansey",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/113.png",
+    dex_id:"114",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Tangela",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/114.png",
+    dex_id:"115",
+    tipo1_id:"4",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Kangaskhan",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/115.png",
+    dex_id:"116",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Horsea",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/116.png",
+    dex_id:"117",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Seadra",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/117.png",
+    dex_id:"118",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Goldeen",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/118.png",
+    dex_id:"119",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Seaking",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/119.png",
+    dex_id:"120",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Staryu",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/120.png",
+    dex_id:"121",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Starmie",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/121.png",
+    dex_id:"122",
+    tipo1_id:"1",
+    tipo2_id:"13"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Mr Mime",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/122.png",
+    dex_id:"123",
+    tipo1_id:"12",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Scyther",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/123.png",
+    dex_id:"124",
+    tipo1_id:"10",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Jynx",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/124.png",
+    dex_id:"125",
+    tipo1_id:"13",
+    tipo2_id:"13"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Electabuzz",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/125.png",
+    dex_id:"126",
+    tipo1_id:"6",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Magmar",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/126.png",
+    dex_id:"127",
+    tipo1_id:"2",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Pinsir",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/127.png",
+    dex_id:"128",
+    tipo1_id:"10",
+    tipo2_id:"1"
 )
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Tauros",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png",
+    dex_id:"129",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Magikarp",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/129.png",
+    dex_id:"130",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Gyarados",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png",
+    dex_id:"131",
+    tipo1_id:"1",
+    tipo2_id:"16"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Lapras",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/131.png",
+    dex_id:"132",
+    tipo1_id:"1",
+    tipo2_id:"14"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Ditto",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/132.png",
+    dex_id:"133",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Eevee",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png",
+    dex_id:"134",
+    tipo1_id:"7",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Vaporeon",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/134.png",
+    dex_id:"135",
+    tipo1_id:"1",
+    tipo2_id:"1"
 )
-
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Jolteon",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/135.png",
+    dex_id:"136",
+    tipo1_id:"6",
+    tipo2_id:"1"
 )
-
+Pokemon.create!(
+    species:"Flareon",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/136.png",
+    dex_id:"137",
+    tipo1_id:"2",
+    tipo2_id:"1"
+)
+Pokemon.create!(
+    species:"Porygon",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/137.png",
+    dex_id:"138",
+    tipo1_id:"7",
+    tipo2_id:"1"
+)
+Pokemon.create!(
+    species:"Omanyte",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/138.png",
+    dex_id:"139",
+    tipo1_id:"5",
+    tipo2_id:"2"
+)
+Pokemon.create!(
+    species:"Omastar",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/139.png",
+    dex_id:"140",
+    tipo1_id:"5",
+    tipo2_id:"2"
+)
+Pokemon.create!(
+    species:"Kabuto",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/140.png",
+    dex_id:"141",
+    tipo1_id:"5",
+    tipo2_id:"2"
+)
+Pokemon.create!(
+    species:"Kabutops",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/141.png",
+    dex_id:"142",
+    tipo1_id:"5",
+    tipo2_id:"2"
+)
 Pokemon.create!(
-    species:"",
-    sprite:"",
-    dex_id:""
-    tipo1_id:"",
-    tipo2_id:""
+    species:"Aerodactyl",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/142.png",
+    dex_id:"143",
+    tipo1_id:"5",
+    tipo2_id:"16"
 )
+Pokemon.create!(
+    species:"Snorlax",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png",
+    dex_id:"144",
+    tipo1_id:"7",
+    tipo2_id:"1"
+)
+Pokemon.create!(
+    species:"Articuno",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/144.png",
+    dex_id:"145",
+    tipo1_id:"13",
+    tipo2_id:"16"
+)
+Pokemon.create!(
+    species:"Zapdos",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/145.png",
+    dex_id:"146",
+    tipo1_id:"6",
+    tipo2_id:"16"
+)
+Pokemon.create!(
+    species:"Moltres",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/146.png",
+    dex_id:"147",
+    tipo1_id:"2",
+    tipo2_id:"16"
+)
+Pokemon.create!(
+    species:"Dratini",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/147.png",
+    dex_id:"148",
+    tipo1_id:"15",
+    tipo2_id:"1"
+)
+Pokemon.create!(
+    species:"Dragonair",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/148.png",
+    dex_id:"149",
+    tipo1_id:"15",
+    tipo2_id:"1"
+)
+Pokemon.create!(
+    species:"Dragonite",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/149.png",
+    dex_id:"150",
+    tipo1_id:"15",
+    tipo2_id:"16"
+)
+Pokemon.create!(
+    species:"Mewtwo",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png",
+    dex_id:"150",
+    tipo1_id:"12",
+    tipo2_id:"1"
+)
+Pokemon.create!(
+    species:"Mew",
+    sprite:"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/151.png",
+    dex_id:"151",
+    tipo1_id:"12",
+    tipo2_id:"1"
+)
+
 
 
 puts "pokemons cadastrados com sucesso"
