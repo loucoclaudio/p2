@@ -1,0 +1,2 @@
+#!/bin/bash
+rvm use ruby-2.4.0@rails5.2.3 --create && bundle install
