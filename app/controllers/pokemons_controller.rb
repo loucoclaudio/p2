@@ -3,7 +3,6 @@ class PokemonsController < ApplicationController
   before_action :set_dex_options, only: [:new, :create, :edit, :update]
   before_action :set_tipo1_options, only: [:new, :create, :edit, :update]
   before_action :set_tipo2_options, only: [:new, :create, :edit, :update]
-  http_basic_authenticate_with name: "admin", password: "nimda", except: [:index, :show]
 
   # GET /pokemons
   # GET /pokemons.json
