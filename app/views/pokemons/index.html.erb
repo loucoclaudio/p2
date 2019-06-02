@@ -4,20 +4,23 @@
 <div class="row m-0">
 <% @pokemons.each do | pokemon | %>
   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-2">
-<div class="card bg-dark text-white border-primary mb-3" style="">
+<div class="card bg-dark text-white border-dark rounded-circle mb-3" style="">
   
   <img class="card-img-top" 
-    style="height: 10vw; width: 100%; object-fit: contain;"
+    style="max-height: 10vw; width: 100%; object-fit: contain;"
     src="<%= pokemon.sprite %>" alt="Card image cap">
-  <div class="card-body bg-light">
+  <div class="card-body ">
 
     <h5 class="card-title text-center">
-      <%= link_to pokemon.species, pokemon, class:"text-dark text-center" %>
+      <%= link_to pokemon.species, pokemon, class:"text-light text-center" %>
     </h5>
-   
-    <%= link_to 'Edit', edit_pokemon_path(pokemon), class:"btn btn-primary btn-sm" %>
-    <%= link_to 'Destroy', pokemon, method: :delete, data: { confirm: 'Are you sure?' }, class:"btn btn-primary btn-sm" %>
- 
+  </div>
+  <div class="card-footer bg-light text-center">
+
+    <%= link_to 'Edit', edit_pokemon_path(pokemon), class:"btn btn-primary btn-sm pull-left" %>
+
+    <%= link_to 'Destroy', pokemon, method: :delete, data: { confirm: 'Are you sure?' }, class:"btn btn-danger btn-sm pull-right" %>
+    
   </div>
 </div>
 </div>
