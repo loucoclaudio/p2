@@ -11,8 +11,10 @@
   </head>
 
   <body>
-   
+    <% if current_user %>
+    
     <%= render "welcome/menu" %>
+    <% end %>
     <%= yield %>
   </body>
 </html>

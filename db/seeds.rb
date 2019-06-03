@@ -5,6 +5,14 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+puts "Vai criar o sysadmin"
+User.create! :email => 'sys@admin.com', :password => 'pokemonsword', :password_confirmation => 'pokemonsword', :admin => true
+
+puts "Vai criar dois usuarios"
+User.create! :email => 'user@pokedex.org', :password => 'akumadostreetfighter', :password_confirmation => 'akumadostreetfighter', :admin => false
+User.create! :email => 'user2@pokedex.org', :password => 'variastarefasm1lgr$', :password_confirmation => 'variastarefasm1lgr$', :admin => false
+
+
 puts "Criando os dexes"
 
 Dex.create!(
@@ -1933,3 +1941,10 @@ Pokemon.create!(
 
 
 puts "pokemons cadastrados com sucesso"
+
+
+
+
+
+
+
