@@ -1,4 +1,6 @@
-<h2>Log in</h2>
+
+<h2 class="d-flex justify-content-center align-items-center container">Log in</h2>
+<div class="d-flex justify-content-center align-items-center container">
 
 <%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
   <div class="field">
@@ -19,8 +21,17 @@
   <% end %>
 
   <div class="actions">
-    <%= f.submit "Log in" %>
-  </div>
-<% end %>
+    <%= f.submit "Log in", class:"btn btn-primary" %>
 
+    <%- if devise_mapping.registerable? && controller_name != 'registrations' %>
+    <%= link_to "Cadastro", new_registration_path(resource_name), class:"btn btn-secondary pull-right" %>
+    <% end %>
+
+
+  </div>
+  
+<% end %>
+</div>
+<div class="d-flex justify-content-center align-items-center container">
 <%= render "devise/shared/links" %>
+</div>

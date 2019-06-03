@@ -1,8 +1,9 @@
 <%= render "header" %>
    
 
-<p>data de hj:<%= l(Date.today) %></p>
-<p></p>
+<p><b>Data de Hoje:</b>:<%= l(Date.today) %></p>
+<p><b>Logado como:</b><%= current_user.email %></p>
+<p><b>Possui admin?:</b><%= current_user.admin %></p>
 
 
 
