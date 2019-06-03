@@ -15,13 +15,13 @@
       <%= link_to pokemon.species, pokemon, class:"text-light text-center" %>
     </h5>
   </div>
-  <div class="card-footer bg-light text-center">
-
+ <% if request.authorization.present? %>
+ <div class="card-footer bg-light text-center">
     <%= link_to 'Edit', edit_pokemon_path(pokemon), class:"btn btn-primary btn-sm pull-left" %>
 
     <%= link_to 'Destroy', pokemon, method: :delete, data: { confirm: 'Are you sure?' }, class:"btn btn-danger btn-sm pull-right" %>
     
-  </div>
+  </div><% end %>
 </div>
 </div>
 <% end %>
